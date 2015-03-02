@@ -1,0 +1,1 @@
+All Hadoop Streaming questions are ran on Hadoop-Sreaming-1.1.0
